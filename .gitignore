@@ -1,2 +1,5 @@
 node_modules
 dist
+lib
+index.d.ts
+index.js
