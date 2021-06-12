@@ -1,0 +1,23 @@
+{
+  "name": "typrscript-utility-kit",
+  "version": "1.0.0",
+  "description": "a utility kit of typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchang6513/typrscript-utility-kit.git"
+  },
+  "keywords": [
+    "typescript",
+    "utility"
+  ],
+  "author": "Yi-Wei Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchang6513/typrscript-utility-kit/issues"
+  },
+  "homepage": "https://github.com/jchang6513/typrscript-utility-kit#readme"
+}
